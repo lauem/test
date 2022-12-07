@@ -1,8 +1,11 @@
 # Heading One
-Here goes some text
+Here goes some *text* and I added some **markdown**
 
 ## Heading Two
 Here goes other text
+Here is a checklist:
+- [x] done
+- [ ] to do
 
 ### Heading Three
 This is the last text. Add not change.
