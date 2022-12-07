@@ -5,12 +5,13 @@ Here goes some text
 Here goes other text
 
 ### Heading Three
-This is the last text
+This is the last text. Add not change.
 
 # Heading 
-More text
+Change some text
 
 # Heading 
-More text
+Changed text. Added text.
 
 ## Heading 
+Add more text
