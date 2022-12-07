@@ -1,5 +1,5 @@
 # Heading One
-Here goes some text
+Here goes some text. Now there will be a conflict.
 
 ## Heading Two
 Here goes other text
