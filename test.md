@@ -7,10 +7,10 @@ Here goes other text
 ### Heading Three
 This is the last text
 
-# Heading One
+# Heading 
 More text
 
-# Heading One
+# Heading 
 More text
 
-## Heading Two
+## Heading 
