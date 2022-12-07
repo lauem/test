@@ -9,3 +9,8 @@ This is the last text
 
 # Heading One
 More text
+
+# Heading One
+More text
+
+## Heading Two
